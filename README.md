@@ -1,3 +1,3 @@
 # main.py
-Calculadora Basica feita em Python.
+Calculadora Básica feita em Python.
 
